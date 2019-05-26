@@ -1,0 +1,35 @@
+.cityContainer {
+  width: 270px;
+  background-color: lightgray;
+  border-radius: 12px;
+  padding: 12px;
+  font-family: cursive;
+  display: inline-block;
+  margin: 10px;
+  direction: ltr;
+  position: relative;
+}
+
+.cityContainer .deleteIcon {
+  position: absolute;
+  top: -2px;
+  right: 6px;
+  cursor: pointer;
+}
+
+.cityContainer img {
+  position: absolute;
+  top: 8px;
+  right: 50px;
+}
+
+.cityName {
+  padding-top: 10px;
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.cityContainer td:nth-child(1){
+  padding: 2px 130px 2px 0px;
+}

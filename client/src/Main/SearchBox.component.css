@@ -1,0 +1,13 @@
+.searchContainer button{
+  background-color: #a3d2f8;
+}
+
+.input-group {
+  width: 90%;
+  margin: 10px auto;
+}
+
+#notValidCity {
+  margin: auto;
+  width: 90%;
+}

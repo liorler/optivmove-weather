@@ -1,0 +1,5 @@
+.appContainer {
+  height: 100%;
+  background:linear-gradient(22deg, rgba(154, 216, 239, 0.78), rgba(182, 173, 158, 0.9)), url('https://media.mnn.com/assets/images/2018/08/CollectionOfCloudsAgainstABlueSky.jpg.653x0_q80_crop-smart.jpg');
+  background-size: cover;
+}

@@ -1,0 +1,12 @@
+.historyContainer {
+  width: 90%;
+  margin: auto;
+}
+
+.historyContainer td {
+  padding: 5px;
+}
+
+.historyContainer td:nth-child(2) {
+  width: 150px;
+}

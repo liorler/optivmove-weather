@@ -1,0 +1,16 @@
+.loginBody {
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  background-size: cover;
+}
+
+.loginContainer {
+  width: 300px;
+  margin: auto;
+  padding-top: 100px;
+}
+
+.notValidMessage {
+  color: red;
+}

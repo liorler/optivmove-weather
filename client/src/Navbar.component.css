@@ -1,0 +1,74 @@
+.navbar {
+  background-color:#97918d !important;
+  display: flow-root;
+}
+
+.app-icon {
+  height: 32px;
+  display: inline-flex;
+  cursor: pointer;
+}
+
+.app-icon img
+{
+    max-width: 40px;
+    height: 100%;
+}
+
+.weatherIconText {
+  display: block;
+  color: white;
+  font-family: serif;
+}
+
+.rightNav {
+  float: right;
+  color: white;
+}
+
+.loggedComp {
+  display: flex;
+}
+
+.loggedComp .loggedText {
+  font-size: 12px;
+}
+
+.loggedComp .logoutText {
+    color: blue;
+    cursor: pointer;
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.personIcon {
+  border-radius: 100px;
+  width: 35px;
+  height: 35px;
+  background-color: #ffe2ce;
+  margin-right: 5px;
+}
+
+.personIcon img {
+  width: 100%;
+  height: 100%;
+}
+
+.logControl {
+
+}
+
+.logControl h4, .logControl h6 {
+  margin-right: 8px;
+  display: inline-block;
+}
+
+.logControl span {
+  color: white;
+}
+
+.logControl span:hover {
+  cursor: pointer;
+  color: white;
+  text-shadow: 0px 0px 12px lightgrey;
+}
