@@ -1,5 +1,4 @@
 import React , {Component} from 'react';
-import './Signin.component.css';
 import { Form , Button } from 'react-bootstrap';
 
 export default class Signin extends Component {
